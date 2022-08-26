@@ -1,0 +1,32 @@
+main{
+    padding: 2rem;
+}
+.bloque{
+    margin: 0 auto;
+    border: 2px solid black;
+    width: 37.5rem;
+    height: 12.5rem;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+p{
+    font-size: 25px;
+    margin: 2.5rem;
+}
+
+button{
+    width: 3.125rem;
+    height: 1.875rem;
+    box-shadow: 3px 3px black;
+    background-color: #FFD966;
+}
+
+h4{
+    font-size: 1.25rem;
+}
